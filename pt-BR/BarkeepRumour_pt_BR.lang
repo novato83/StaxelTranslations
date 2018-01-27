@@ -1,46 +1,46 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'They say the old farmhouse is haunted...'
+//TODO Translate [Reference] 'Eles dizem que a antiga fazenda está assombrada ...'
 staxel.village.dialogue.job.BarkeepRumour.line:10000700=
-//TODO Translate [Reference] 'At night you'll hear all sorts of strange sounds...'
+//TODO Translate [Reference] 'À noite você vai ouvir vários tipo de sons estranhos ...'
 staxel.village.dialogue.job.BarkeepRumour.line:10000800=
-//TODO Translate [Reference] 'Nah, I'm just messing with you!'
+//TODO Translate [Reference] 'Nah, estou apenas brincando com você!'
 staxel.village.dialogue.job.BarkeepRumour.line:10000900=
-//TODO Translate [Reference] 'I've heard tell that there are fairies in the woodlands around here.'
+//TODO Translate [Reference] 'Ouvi dizer que há fadas por estás florestas. '
 staxel.village.dialogue.job.BarkeepRumour.line:10001000=
-//TODO Translate [Reference] 'Not sure how reliable those stories are though...'
+//TODO Translate [Reference] 'Não tenho certeza de quão confiável essas histórias são embora ...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001100=
-//TODO Translate [Reference] 'No one seems to have seen any...'
+//TODO Translate [Reference] 'Ninguém parece ter visto nenhuma...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001200=
-//TODO Translate [Reference] 'The old farmer used to tell tales of growing giant crops.'
+//TODO Translate [Reference] 'O velho fazendeiro costumava contar histórias de culturas gigantescas.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001300=
-//TODO Translate [Reference] 'Can't say I've seen anyone have that kind of success since...'
+//TODO Translate [Reference] 'Não ouvi ninguém dizer que teve esse tipo de sucesso...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001400=
-//TODO Translate [Reference] 'Watch out for that ^c:1486b0;Farm Fan^c:pop;...'
+//TODO Translate [Reference] 'Cuidado com isso ^c:1486b0;Farm Fan^c:pop;...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001500=
-//TODO Translate [Reference] 'She can be a bit... overbearing at times.'
+//TODO Translate [Reference] 'Ela pode ser um pouco ... dominadora às vezes.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001600=
-//TODO Translate [Reference] 'I don't doubt she'll have plenty of useful tips for you though!'
+//TODO Translate [Reference] 'Não duvido que ela tenha muitas dicas úteis para você.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001700=
-//TODO Translate [Reference] 'No, I'm afraid I don't know her real name either.'
+//TODO Translate [Reference] 'Não, eu também tenho medo de não conhecer seu nome real.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001800=
-//TODO Translate [Reference] 'Our sap is the best you'll find anywhere in the region!'
+//TODO Translate [Reference] 'Nossa seiva é o melhor que você encontrará, pode procurar em qualquer lugar da região!'
 staxel.village.dialogue.job.BarkeepRumour.line:10001900=
-//TODO Translate [Reference] 'The recipe is a secret though, so don't ask.'
+//TODO Translate [Reference] 'A receita é um segredo, então não pergunte.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002000=
-//TODO Translate [Reference] 'Do we serve milk?'
+//TODO Translate [Reference] 'Nós servimos leite?'
 staxel.village.dialogue.job.BarkeepRumour.line:10002100=
-//TODO Translate [Reference] 'No... why would you think that?'
+//TODO Translate [Reference] 'Não... por que você pensaria isso?'
 staxel.village.dialogue.job.BarkeepRumour.line:10002200=
-//TODO Translate [Reference] 'Supposedly ^c:d03e37;baking^c:pop; can be quite profitable.'
+//TODO Translate [Reference] 'Supostamente ^c:d03e37;baking^c:pop; pode ser bastante lucrativo.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002300=
-//TODO Translate [Reference] 'It would be wonderful to have a ^c:1486b0;bakery^c:pop; around here.'
+//TODO Translate [Reference] 'Seria maravilhoso ter um ^c:1486b0;bakery^c:pop; por aqui.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002400=
-//TODO Translate [Reference] 'Perhaps someone will build one someday...'
+//TODO Translate [Reference] 'Talvez alguém construa algum dia...'
 staxel.village.dialogue.job.BarkeepRumour.line:10002500=
-//TODO Translate [Reference] 'That ^c:1486b0;{0-l_name}^c:pop; is a bit of a mystery...'
+//TODO Translate [Reference] '^c:1486b0;{0-l_name}^c:pop; é um pouco de um mistério...'
 staxel.village.dialogue.job.BarkeepRumour.line:10005000=
-//TODO Translate [Reference] 'He was minding the store even back when I was a young lad.'
+//TODO Translate [Reference] 'Ele estava preocupado com a loja até mesmo quando eu era jovem.'
 staxel.village.dialogue.job.BarkeepRumour.line:10005100=
-//TODO Translate [Reference] 'Hardly seems to have aged a day since...'
+//TODO Translate [Reference] 'Não parece ter envelhecido nem um dia...'
 staxel.village.dialogue.job.BarkeepRumour.line:10005200=
