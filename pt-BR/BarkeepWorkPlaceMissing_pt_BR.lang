@@ -1,10 +1,10 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'Why am I not watching over the ^c:1486b0;tavern^c:pop; you ask?'
+//TODO Translate [Reference] 'Por que não estou vigiando a ^c:1486b0;tavern^c:pop; você pergunta?'
 staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=
-//TODO Translate [Reference] 'It seems some hooligan went and tore part of it down...'
+//TODO Translate [Reference] 'Parece que algum vândalo retirou parte dela...'
 staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=
-//TODO Translate [Reference] 'So I'm taking some well deserved time off!'
+//TODO Translate [Reference] 'Então eu estou tendo um merecido descanso!'
 staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=
-//TODO Translate [Reference] 'I'll consider getting back to work once it's repaired.'
+//TODO Translate [Reference] 'Vou considerar voltar ao trabalho assim que estiver consertado.'
 staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=
