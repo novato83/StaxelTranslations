@@ -1,10 +1,10 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'Well now, this is just what the village needed!'
+//TODO Translate [Reference] 'Bem, isso é exatamente o que a aldeia precisava!'
 staxel.village.dialogue.intro.Cecile.line:10000100=
-//TODO Translate [Reference] 'Fresh bloo- no. Mea- hm. Eloquence, eloquence.'
+//TODO Translate [Reference] 'Fresco não. Mea-hm. Fluência, fluência.'
 staxel.village.dialogue.intro.Cecile.line:10000200=
 //TODO Translate [Reference] 'Aha!'
 staxel.village.dialogue.intro.Cecile.line:10000300=
-//TODO Translate [Reference] 'I'm ^c:1486b0;{0-name}^c:pop; and I have absolutely no intention of using you as a test subject!'
+//TODO Translate [Reference] 'Eu sou ^c:1486b0;{0-name}^c:pop; e não tenho a menor intenção de usar você como cobaia!'
 staxel.village.dialogue.intro.Cecile.line:10000400=
