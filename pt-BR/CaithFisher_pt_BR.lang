@@ -1,16 +1,16 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'Myah! ^c:1486b0;{0-playername}^c:pop;!'
+//TODO Translate [Reference] 'Miau! ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.CaithFisher.line:10000100=
-//TODO Translate [Reference] 'Suddenly there's an excellent ^c:1486b0;fishing spot^c:pop; here!'
+//TODO Translate [Reference] 'De repente, há uma excelente ^c:1486b0;fishing spot^c:pop; aqui!'
 staxel.village.dialogue.CaithFisher.line:10000200=
-//TODO Translate [Reference] 'I'm so moved! I think I'll give you my old ^c:d03e37;fishing rod^c:pop;!'
+//TODO Translate [Reference] 'Estou tão emocionada! Acho que vou te dar o meu velho ^c:d03e37;fishing rod^c:pop;!'
 staxel.village.dialogue.CaithFisher.line:10000300=
-//TODO Translate [Reference] 'It's a bit worn down, but it still works fine.'
+//TODO Translate [Reference] 'Está um pouco desgastado, mas ainda funciona bem.'
 staxel.village.dialogue.CaithFisher.line:10000400=
-//TODO Translate [Reference] 'Please join me sometime mya!'
+//TODO Translate [Reference] 'Por favor, junte-se a mim miau.'
 staxel.village.dialogue.CaithFisher.line:10000500=
-//TODO Translate [Reference] 'You can catch all sorts of tasty fish.'
+//TODO Translate [Reference] 'Você pode pegar todos os tipos de peixe saboroso.'
 staxel.village.dialogue.CaithFisher.line:10000600=
-//TODO Translate [Reference] 'Come talk to me every now and then and I'll teach you what I can!'
+//TODO Translate [Reference] 'Venha falar comigo de vez em quando e eu vou te ensinar tudo que sei!'
 staxel.village.dialogue.CaithFisher.line:10000700=
