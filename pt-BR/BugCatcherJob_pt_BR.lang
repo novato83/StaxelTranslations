@@ -1,36 +1,36 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'You should buy a ^c:d03e37;bug net^c:pop;!'
+//TODO Translate [Reference] 'Você deve comprar um ^c:d03e37;bug net^c:pop;!'
 staxel.village.dialogue.job.BugCatcher.line:10000100=
-//TODO Translate [Reference] 'You'll be able to catch all sorts of bugs in the wilderness!'
+//TODO Translate [Reference] 'Você poderá pegar todos os tipos de insetos da região selvagem!'
 staxel.village.dialogue.job.BugCatcher.line:10000200=
-//TODO Translate [Reference] 'Some of them can be very useful!'
+//TODO Translate [Reference] 'Alguns deles podem ser muito úteis!'
 staxel.village.dialogue.job.BugCatcher.line:10000300=
-//TODO Translate [Reference] 'If you wanna find ^c:d03e37;beetles^c:pop;, I'd suggest looking around trees.'
+//TODO Translate [Reference] 'Se você quiser encontrar um ^c:d03e37;beetles^c:pop;, eu sugiro olhar ao redor das árvores.'
 staxel.village.dialogue.job.BugCatcher.line:10000400=
-//TODO Translate [Reference] 'They like to hang around on the trunks!'
+//TODO Translate [Reference] 'Eles gostam de se esconder no tronco!'
 staxel.village.dialogue.job.BugCatcher.line:10000500=
-//TODO Translate [Reference] 'Sometimes you'll come across ^c:d03e37;bees^c:pop; near flowers.'
+//TODO Translate [Reference] 'Às vezes você encontrará ^c:d03e37;bees^c:pop; perto das flores.'
 staxel.village.dialogue.job.BugCatcher.line:10000600=
-//TODO Translate [Reference] 'If you're lucky, you might even find a ^c:d03e37;queen^c:pop;!'
+//TODO Translate [Reference] 'Se você tiver sorte, você pode até encontrar um ^c:d03e37;queen^c:pop;!'
 staxel.village.dialogue.job.BugCatcher.line:10000700=
-//TODO Translate [Reference] 'If you like bug catching, I'd suggest investing in a ^c:d03e37;beehive^c:pop;.'
+//TODO Translate [Reference] 'Se você gosta de pegar insetos, eu sugeriria investir em um ^c:d03e37;beehive^c:pop;.'
 staxel.village.dialogue.job.BugCatcher.line:10000800=
-//TODO Translate [Reference] 'When you put in a ^c:d03e37;queen bee^c:pop;, the swarm will start to gather there.'
+//TODO Translate [Reference] 'Quando você coloca uma ^c:d03e37;queen bee^c:pop;, o enxame começará a se juntar lá.'
 staxel.village.dialogue.job.BugCatcher.line:10000900=
-//TODO Translate [Reference] 'Eventually it'll start producing ^c:d03e37;honey^c:pop;!'
+//TODO Translate [Reference] 'Eventualmente, ele começará a produzir ^c:d03e37;honey^c:pop;!'
 staxel.village.dialogue.job.BugCatcher.line:10001000=
-//TODO Translate [Reference] '^c:d03e37;Rhinoceros beetles^c:pop; are the ultimate beetle.'
+//TODO Translate [Reference] '^c:d03e37;Rhinoceros beetles^c:pop; são os besouros finais.'
 staxel.village.dialogue.job.BugCatcher.line:10001100=
-//TODO Translate [Reference] 'They're so magnificent there's no contest!'
+//TODO Translate [Reference] 'São tão magníficos que não há competição!'
 staxel.village.dialogue.job.BugCatcher.line:10001200=
-//TODO Translate [Reference] 'I love hanging out in the forests at night.'
+//TODO Translate [Reference] 'Eu amo passear nas florestas à noite.'
 staxel.village.dialogue.job.BugCatcher.line:10001300=
-//TODO Translate [Reference] 'Sometimes you might catch a swarm of ^c:d03e37;fireflies^c:pop;.'
+//TODO Translate [Reference] 'Às vezes você pode pegar um enxame de ^c:d03e37;fireflies^c:pop;.'
 staxel.village.dialogue.job.BugCatcher.line:10001400=
-//TODO Translate [Reference] 'It's quite something!'
+//TODO Translate [Reference] 'É uma coisa certa!'
 staxel.village.dialogue.job.BugCatcher.line:10001500=
-//TODO Translate [Reference] 'Bug collecting can be a pretty good source of income.'
+//TODO Translate [Reference] 'A coleta de insetos pode ser uma boa fonte de renda.'
 staxel.village.dialogue.job.BugCatcher.line:10001600=
-//TODO Translate [Reference] 'Some people are really into getting hold of rare insects!'
+//TODO Translate [Reference] 'Algumas pessoas estão realmente apostando em insetos raros!'
 staxel.village.dialogue.job.BugCatcher.line:10001700=
