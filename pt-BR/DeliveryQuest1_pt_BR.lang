@@ -1,42 +1,42 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'One moment ^c:1486b0;{0-playername}^c:pop;!'
+//TODO Translate [Reference] 'Um momento ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000100=
-//TODO Translate [Reference] 'Do you think you could deliver this ^c:d03e37;{0-item}^c:pop; to ^c:1486b0;{1-target}^c:pop; for me?'
+//TODO Translate [Reference] 'Você acha que poderia entregar isso ^c:d03e37;{0-item}^c:pop; to ^c:1486b0;{1-target}^c:pop; para mim?'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000200=
-//TODO Translate [Reference] 'Sure! No problem!'
+//TODO Translate [Reference] 'Sim! Sem problemas!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000300=
-//TODO Translate [Reference] 'I'm a bit busy today.'
+//TODO Translate [Reference] 'Hoje estou um pouco ocupado.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000400=
-//TODO Translate [Reference] 'Perfect! Thank you!'
+//TODO Translate [Reference] 'Perfeito! Obrigado!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000500=
-//TODO Translate [Reference] 'That's the item!'
+//TODO Translate [Reference] 'Este é o item!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000600=
-//TODO Translate [Reference] 'You need to take the ^c:d03e37;{0-item}^c:pop; to ^c:1486b0;{1-target}^c:pop;!'
+//TODO Translate [Reference] 'Você precisa entregar o ^c:d03e37;{0-item}^c:pop; para ^c:1486b0;{1-target}^c:pop;!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000700=
-//TODO Translate [Reference] 'Sure thing!'
+//TODO Translate [Reference] 'Claro que sim!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000800=
-//TODO Translate [Reference] 'I'll pass.'
+//TODO Translate [Reference] 'Vou passar.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10000900=
-//TODO Translate [Reference] 'Oh... alright.'
+//TODO Translate [Reference] 'Oh... tudo bem.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001000=
-//TODO Translate [Reference] 'Oh, is that ^c:d03e37;{0-item}^c:pop; for me?'
+//TODO Translate [Reference] 'Ah, este item ^c:d03e37;{0-item}^c:pop; é para mim?'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001100=
-//TODO Translate [Reference] 'Indeed!'
+//TODO Translate [Reference] 'Sim!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001200=
-//TODO Translate [Reference] 'Nope.'
+//TODO Translate [Reference] 'Não.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001300=
-//TODO Translate [Reference] 'Thank you!'
+//TODO Translate [Reference] 'Obrigado!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001400=
-//TODO Translate [Reference] 'Please, take this for your trouble!'
+//TODO Translate [Reference] 'Por favor, fique com isso para resolver seu problema!'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001500=
-//TODO Translate [Reference] 'Oh... Okay.'
+//TODO Translate [Reference] 'Oh... Ok.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001600=
-//TODO Translate [Reference] 'I hope it arrives soon...'
+//TODO Translate [Reference] 'Espero que chegue em breve...'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001700=
-//TODO Translate [Reference] 'Oh... okay. I understand.'
+//TODO Translate [Reference] 'Oh... tudo bem. Compreendo.'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001800=
-//TODO Translate [Reference] 'You're not going to give the ^c:d03e37;{0-item}^c:pop; back?'
+//TODO Translate [Reference] 'Você não vai devolver o ^c:d03e37;{0-item}^c:pop;?'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10001900=
-//TODO Translate [Reference] 'Hmm... I wonder when I'll get my ^c:d03e37;{0-item}^c:pop;...'
+//TODO Translate [Reference] 'Hmm ... Eu me pergunto quando eu vou pegar meu ^c:d03e37;{0-item}^c:pop;...'
 staxel.village.dialogue.quest.DeliveryQuest.1.line:10002000=
