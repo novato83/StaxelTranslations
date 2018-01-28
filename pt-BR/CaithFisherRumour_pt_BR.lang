@@ -1,44 +1,44 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'You should try fishing in different types of water!'
+//TODO Translate [Reference] 'Você deve tentar pescar em diferentes tipos de água!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000100=
-//TODO Translate [Reference] 'There are all sorts of fish out there mya!'
+//TODO Translate [Reference] 'Há todos os tipos de peixes lá fora, Miau!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000200=
-//TODO Translate [Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;!'
+//TODO Translate [Reference] 'Ei ^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000300=
-//TODO Translate [Reference] 'Did you know you can catch different fish at different times of day mya?'
+//TODO Translate [Reference] 'Você sabia que você pode pegar diferentes tipos de peixes em diferentes horários do dia? Miau'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000400=
-//TODO Translate [Reference] 'Some of the tasty ones only come out at night!'
+//TODO Translate [Reference] 'Alguns dos mais saborosos só saem à noite!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000500=
-//TODO Translate [Reference] 'When will the weather change again mya?'
+//TODO Translate [Reference] 'Quando o tempo vai mudar de novo? Miau'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000600=
-//TODO Translate [Reference] 'You can catch different kinds of fish in different conditions!'
+//TODO Translate [Reference] 'Você pode pegar diferentes tipos de peixes em diferentes condições!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000700=
-//TODO Translate [Reference] 'It's good to have a varied diet mya!'
+//TODO Translate [Reference] 'É bom ter uma dieta variada Miau!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000800=
-//TODO Translate [Reference] 'Supposedly larger fish can be harder to catch.'
+//TODO Translate [Reference] 'Supostamente peixes maiores podem ser mais difíceis de pegar.'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000900=
-//TODO Translate [Reference] 'I can't say I've really noticed the difference mya...'
+//TODO Translate [Reference] 'Não posso dizer que realmente notei a diferença, miau...'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001000=
-//TODO Translate [Reference] 'Mmmya...'
+//TODO Translate [Reference] 'Miauuuuuu...'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001100=
-//TODO Translate [Reference] 'You can eat fish in all sorts of ways!'
+//TODO Translate [Reference] 'Você pode comer peixe de várias maneiras!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001200=
-//TODO Translate [Reference] 'You can barbecue them, boil them, broil them, bake them, sauté them.'
+//TODO Translate [Reference] 'Você pode fazer churrasco, assar, ferver e refogar.'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001300=
-//TODO Translate [Reference] 'Plus they can be pan fried, deep fried, or stir-fried!'
+//TODO Translate [Reference] 'Além disso, eles podem ser fritos ou mexidos!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001400=
-//TODO Translate [Reference] 'But in the end, I think I like them better raw mya!'
+//TODO Translate [Reference] 'Mas no final, acho que me agrada mais eles crus Miau!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001500=
-//TODO Translate [Reference] 'They say it's bad luck to go fishing with a cat and not catch anything.'
+//TODO Translate [Reference] 'Eles dizem que é má sorte ir pescar com um gato e não pegar nada.'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001600=
-//TODO Translate [Reference] 'Make sure you catch a fish for me mya!'
+//TODO Translate [Reference] 'Certifique-se de pegar um peixe para mim, miau!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001700=
-//TODO Translate [Reference] 'You might get hiccups if you don't!'
+//TODO Translate [Reference] 'Você pode ter soluços se você não fizer isso!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001800=
-//TODO Translate [Reference] 'If you're going to get into fishing you need to be patient.'
+//TODO Translate [Reference] 'Se você está indo pescar, você precisa ser paciente.'
 staxel.village.dialogue.job.CaithFisherRumour.line:10001900=
-//TODO Translate [Reference] 'Some fish are hard to catch mya!'
+//TODO Translate [Reference] 'Alguns peixes são difíceis de pegar miau!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10002000=
-//TODO Translate [Reference] 'Some are even harder to find!'
+//TODO Translate [Reference] 'Alguns são ainda mais difíceis de encontrar!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10002100=
